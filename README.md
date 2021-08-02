@@ -14,7 +14,7 @@ const yAbSampaio = {
         },
         databases: ["Postgress"]
     },
-    funFact: "otaku and first class nerd "
+    funFact: "otaku and first class nerd"
 };
 ```
 <div style="display: inline_block"><br>
@@ -37,5 +37,5 @@ const yAbSampaio = {
 </div>
   
   
-[Snake animation](https://github.com/yAbSampaio/yAbSampaio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/yAbSampaio/yAbSampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
