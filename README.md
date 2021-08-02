@@ -37,6 +37,5 @@ const yAbSampaio = {
 </div>
   
   
-    
-      ![Snake animation](https://github.com/yAbSampaio/yAbSampaio/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/yAbSampaio/yAbSampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
