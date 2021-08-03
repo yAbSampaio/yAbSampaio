@@ -29,9 +29,8 @@ const yAbSampaio = {
 
   #
 <div align="center">
-    <img height="120 align="center" alt="yoda" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+    <img height="180 align="center" alt="yoda" src="https://camo.githubusercontent.com/2309797487e5e969659a3b545c96151807b04120a9cc2985f632ec94ba00c9f3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
 </div>
-![Profile Views](http://img.shields.io/badge/Profile%20Views-927-blue)
 <div>
   <a href="https://github.com/yAbSampaio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yAbSampaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
