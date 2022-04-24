@@ -12,7 +12,7 @@ const yAbSampaio = {
         mobileApp: {
             native: ["Android Development"]
         },
-        databases: ["Postgress"]
+        databases: ["Postgres"]
     },
     funFact: "otaku and first class nerd"
 };
